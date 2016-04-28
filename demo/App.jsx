@@ -1,7 +1,7 @@
 /* eslint no-console:0 */
 import React from 'react';
 import Fork from 'react-ghfork';
-import range from 'lodash/range';
+import range from 'lodash/utility/range';
 import cumberbatch from 'cumberbatch-name';
 
 import DemoPaginator from './DemoPaginator.jsx';
